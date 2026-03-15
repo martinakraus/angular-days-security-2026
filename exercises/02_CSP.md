@@ -1,4 +1,4 @@
-# Content-Security-Policy Level 1
+# Content-Security-Policy in Angular 
 
 ### Basic CSP
 
@@ -13,7 +13,7 @@
 `Note: The Angular CLI doesn't recognize changes on the index.html. You must restart "ng serve"
  manually`
 
-### CSP Hashes
+### Content-Security-Policy Level 2: CSP Hashes
 
 - In index.html, we see an arbitrary inline scripting : `<script>document.write('<h1>Inline scripting is <b>not recommended</b>! But if you have not the choice, <b>secure your app with CSP</b></h1>');</script>`
 - Update the CSP in order to allow this inline scripting securely (consider CSP3 SHA-256 hash syntax)
