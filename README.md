@@ -6,8 +6,8 @@ In diesem Workshop lernen Sie zusammen mit Martina Kraus wie sie gängige Sicher
 
 ## Slides
 
-[Angular Web Application Security](https://docs.google.com/presentation/d/1OTeU1PO_rj7aa7yvimNdA95UKzjWLLa5rtlffduMKDw/edit?usp=sharing)
+[Angular Web Application Security](https://docs.google.com/presentation/d/1fSLCUSalgyHV6wHGpJyjO8tt-aUy2c9l0qvpuChpdHE/edit?usp=sharing)
 
 ## Projekt für den Workshop
 
-Dieser Workshop benutzt ein Beispielprojekt für sämtliche Übungsaufgaben. Dieses ist [HIER](https://github.com/martinakraus/angular-security-2025) zu finden.
+Dieser Workshop benutzt ein Beispielprojekt für sämtliche Übungsaufgaben. Dieses ist [HIER](https://github.com/martinakraus/angular-security-2026) zu finden.
