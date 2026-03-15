@@ -1,6 +1,6 @@
 # Cross-Site Request Forgery Protection in Angular
 
-- Checkout the branch `csrf`
+- Checkout the branch `csrf-prevention`
 - Since we now also implement a server we have new dependencies inside the `package.json` (you need to run `npm install` again)
 - To start the Server run `npm start` from the root directory
 - The application is up and running on `http://localhost:3000` (if you change something in the Angular app you need to stop the running Web Server and start it again with `npm start`)
@@ -40,4 +40,4 @@ if (req.headers["x-xsrf-token"] !== cookie) {
 }
 ```
 
-[Solution](https://github.com/martinakraus/angular-security-2025/tree/csrf-prevention-solution)
+[Solution](https://github.com/martinakraus/angular-security-2026/tree/csrf-prevention-solution)

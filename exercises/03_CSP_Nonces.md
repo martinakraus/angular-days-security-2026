@@ -25,4 +25,4 @@ res.setHeader(
 <app-root ngCspNonce="myRandomNonce"></app-root>
 ```
 
-[Solution](https://github.com/martinakraus/angular-security-2025/tree/csp-nonces-solution)
+[Solution](https://github.com/martinakraus/angular-security-2026/tree/csp-nonces-solution)
